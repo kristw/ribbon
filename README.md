@@ -6,10 +6,10 @@ Ribbon watermark idea from [Sittiphol Phanvilai](http://nuuneoi.com/blog/blog.ph
 
 Converted to `<svg>` by [Krist Wongsuphasawat](http://kristw.yellowpigz.com) with help from [picsvg](http://picsvg.com/)
 
-<img src="ribbon_top_left.svg">
-<img src="ribbon_top_right.svg"><br/>
-<img src="ribbon_bottom_left.svg">
-<img src="ribbon_bottom_right.svg">
+<img src="https://github.com/kristw/ribbon/blob/master/ribbon_top_left.svg">
+<img src="https://github.com/kristw/ribbon/blob/master/ribbon_top_right.svg"><br/>
+<img src="https://github.com/kristw/ribbon/blob/master/ribbon_bottom_left.svg">
+<img src="https://github.com/kristw/ribbon/blob/master/ribbon_bottom_right.svg">
 
 -----
 
